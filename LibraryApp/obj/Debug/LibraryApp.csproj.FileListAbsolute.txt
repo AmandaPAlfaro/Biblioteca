@@ -1,0 +1,11 @@
+E:\New Class 2023\Biblioteca\LibraryApp\bin\Debug\LibraryApp.exe.config
+E:\New Class 2023\Biblioteca\LibraryApp\bin\Debug\LibraryApp.exe
+E:\New Class 2023\Biblioteca\LibraryApp\bin\Debug\LibraryApp.pdb
+E:\New Class 2023\Biblioteca\LibraryApp\bin\Debug\Newtonsoft.Json.dll
+E:\New Class 2023\Biblioteca\LibraryApp\bin\Debug\Newtonsoft.Json.xml
+E:\New Class 2023\Biblioteca\LibraryApp\obj\Debug\LibraryApp.csproj.AssemblyReference.cache
+E:\New Class 2023\Biblioteca\LibraryApp\obj\Debug\LibraryApp.csproj.SuggestedBindingRedirects.cache
+E:\New Class 2023\Biblioteca\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+E:\New Class 2023\Biblioteca\LibraryApp\obj\Debug\LibraryApp.csproj.CopyComplete
+E:\New Class 2023\Biblioteca\LibraryApp\obj\Debug\LibraryApp.exe
+E:\New Class 2023\Biblioteca\LibraryApp\obj\Debug\LibraryApp.pdb
